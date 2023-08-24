@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "jerry",
+      "username": "patel",
+      "email": "jerry@gamil.com",
+      "phone": "6359383266",
+      "age": "22",
+      "id": 1
+    },
+    {
+      "name": "mihir",
+      "username": "vasoya",
+      "email": "mr@gmail.com",
+      "phone": "6359383268",
+      "age": "23",
+      "id": 2
+    },
+    {
+      "name": "hello",
+      "username": "sharma",
+      "email": "hello12@gmail.com",
+      "phone": "2356795657",
+      "age": "50",
+      "id": 3
+    },
+    {
+      "name": "yash",
+      "username": "yash",
+      "email": "yas@gmail.com",
+      "phone": "2356795657",
+      "age": "25",
+      "id": 4
+    },
+    {
+      "name": "niket",
+      "username": "desia",
+      "email": "niket@gmail.com",
+      "phone": "6359383265",
+      "age": "26",
+      "id": 5
+    }
+  ]
+}
